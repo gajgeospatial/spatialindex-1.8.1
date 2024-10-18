@@ -26,7 +26,7 @@
 ******************************************************************************/
 
 #pragma once
-
+#include <functional>
 namespace SpatialIndex
 {
 	class SIDX_DLL MovingRegion : public TimeRegion, public IEvolvingShape

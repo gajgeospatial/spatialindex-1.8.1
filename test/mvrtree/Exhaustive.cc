@@ -34,7 +34,7 @@
 #include <cstring>
 #include <limits>
 #include <cmath>
-
+#include <functional>
 using namespace std;
 
 #define DELETE 0

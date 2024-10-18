@@ -30,7 +30,7 @@
 #include "Statistics.h"
 #include "Node.h"
 #include "PointerPoolNode.h"
-
+#include <functional>
 namespace SpatialIndex
 {
 	namespace TPRTree

@@ -28,7 +28,7 @@
 #include <spatialindex/tools/Tools.h>
 #include <cstring>
 #include <cmath>
-
+#include <functional>
 #define INSERT 1
 #define DELETE 0
 #define QUERY 2
